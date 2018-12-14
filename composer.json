@@ -1,0 +1,7 @@
+{
+    "name": "chris-rudmin/opus-recorder",
+    "description": "web audi recorder",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
